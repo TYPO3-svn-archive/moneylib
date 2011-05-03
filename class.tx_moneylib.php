@@ -2,7 +2,8 @@
 /***************************************************************
 *  Copyright notice
 *
-*  (c)  2005 Robert Lemke (robert@typo3.org), Franz Ripfel (typo3@abezet.de)
+*  (c)  2005 Robert Lemke <robert@typo3.org>, Franz Ripfel <typo3@abezet.de>
+*  (c)  2010 Ingo Schmitt <is@marketing-factory.de> 
 * All rights reserved
 *
 *  This script is part of the TYPO3 project. The TYPO3 project is
@@ -25,8 +26,9 @@
  * Code library for display of different currencies
  * widely used in EXT: commerce
  *
- * @author	Robert Lemke <robert@typo3.org>
+ * @author Robert Lemke <robert@typo3.org>
  * @author Franz Ripfel <typo3@abezet.de>
+ * Lauthor Ingo Schmitt <is@marketing-factory.de>
  */
 /**
  * [CLASS/FUNCTION INDEX of SCRIPT]

@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "moneylib".
 #
-# Auto generated 22-02-2010 13:37
+# Auto generated 03-05-2011 22:34
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description' => 'This little code library lets you display monetary values correctly by using data from the static info tables. @see http://forge.typo3.org/projects/show/extension-moneylib',
 	'category' => 'misc',
 	'shy' => 0,
-	'version' => '1.2.2',
+	'version' => '1.3.1',
 	'dependencies' => 'static_info_tables',
 	'conflicts' => '',
 	'priority' => '',
@@ -28,22 +28,23 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearcacheonload' => 0,
 	'lockType' => '',
 	'author' => 'Robert Lemke, Ingo Schmitt',
-	'author_email' => 'robert@typo3.org, is@marketing-factoryde',
+	'author_email' => 'robert@typo3.org, is@marketing-factory.de',
 	'author_company' => '',
 	'CGLcompliance' => '',
 	'CGLcompliance_note' => '',
+	'doNotLoadInFE' => 0,
 	'constraints' => array(
 		'depends' => array(
 			'static_info_tables' => '',
-			'php' => '5.0.0-0.0.0',
-			'typo3' => '4.0.0-0.0.0',
+			'php' => '5.2.0-0.0.0',
+			'typo3' => '4.2.0-0.0.0',
 		),
 		'conflicts' => array(
 		),
 		'suggests' => array(
 		),
 	),
-	'_md5_values_when_last_written' => 'a:3:{s:10:"change.svn";s:4:"1d35";s:21:"class.tx_moneylib.php";s:4:"3578";s:12:"ext_icon.gif";s:4:"6f39";}',
+	'_md5_values_when_last_written' => 'a:3:{s:10:"change.svn";s:4:"4d7b";s:21:"class.tx_moneylib.php";s:4:"3d17";s:12:"ext_icon.gif";s:4:"6f39";}',
 	'suggests' => array(
 	),
 );

@@ -1,5 +1,10 @@
 Changelog for moneylib
 
+03.05.2010 - Ingo Schmitt <is@marketing-factory.de>
+* Updated Author description
+* Checked for php 5.3 compatibility
+* Released Version 1.3 as maintainence release
+
 22.02.2010 - Ingo Schmitt <is@marketing-factory.de>
 * Created Version 1.2.2 as new TER Version to have reference to forge.typo3.org
 
