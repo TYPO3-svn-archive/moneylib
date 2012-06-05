@@ -28,7 +28,7 @@
  *
  * @author Robert Lemke <robert@typo3.org>
  * @author Franz Ripfel <typo3@abezet.de>
- * Lauthor Ingo Schmitt <is@marketing-factory.de>
+ * @author Ingo Schmitt <is@marketing-factory.de>
  */
 /**
  * [CLASS/FUNCTION INDEX of SCRIPT]
